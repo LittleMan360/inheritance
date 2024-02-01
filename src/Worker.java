@@ -1,14 +1,16 @@
 public class Worker extends Person{
 
+    //Attributes
     Double hourlyPayRate;
 
+    //Constructor
     public Worker(String firstName, String lastName, String ID, String title, int YOB, Double hourlyPayRate) {
         super(firstName, lastName, ID, title, YOB);
         this.hourlyPayRate = hourlyPayRate;
     }
 
 
-    //Methods//
+    //CalculateWeeklyPay
     double calculateWeeklyPay(double hoursWorked)
     {
         Double Regular;
@@ -27,13 +29,12 @@ public class Worker extends Person{
         {
             Regular =  hoursWorked * hourlyPayRate;
             return Regular;
-
         }
     }
 
 
 
-    ////DisplayWeeklyPay///
+    ////DisplayWeeklyPay
 
     public String displayWeeklyPay(double hoursWorked){
         if (hoursWorked > 40)

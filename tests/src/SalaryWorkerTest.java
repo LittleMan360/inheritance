@@ -5,8 +5,10 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class SalaryWorkerTest {
 
+    // Declare the workers
     SalaryWorker sw1, sw2;
 
+    // Set up the test fixture
     @BeforeEach
     void setUp() {
 
@@ -15,11 +17,12 @@ class SalaryWorkerTest {
 
     }
 
+    // Test the calculateWeeklyPay method
     @Test
     void calculateWeeklyPay() {
         assertEquals(1000.0, sw2.calculateWeeklyPay(40));
     }
-
+    // Test the displayWeeklyPay method
     @Test
     void displayWeeklyPay() {
         assertEquals("500.00", sw1.displayWeeklyPay(50));

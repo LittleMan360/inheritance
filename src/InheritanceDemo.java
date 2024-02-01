@@ -25,9 +25,11 @@ public class InheritanceDemo {
                 }
             } else
             {
+                // Display the weekly pay for each worker
                 System.out.println("Week " + i +":");
                 for (Worker weeklyWorker : workers)
                 {
+                    // Display the weekly pay for each worker
                     System.out.print("Employee ID: " + weeklyWorker.getID() + " - ");
                     System.out.println(weeklyWorker.displayWeeklyPay(40));
                 }
