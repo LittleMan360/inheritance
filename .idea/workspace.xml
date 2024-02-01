@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95186f7e-71af-4a84-be25-b48b6a40a8a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SafeInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SalaryWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/src/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/src/SalaryWorkerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/src/WorkerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/tests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InheritanceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SalaryWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SalaryWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/src/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/src/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/src/SalaryWorkerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/src/SalaryWorkerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/src/WorkerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/src/WorkerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,11 +127,19 @@
       <option name="project" value="LOCAL" />
       <updated>1706772194420</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="spent all day working on this made salary worker and worker and tests for each of them">
+      <created>1706776094804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706776094804</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="spent all day working on this made salary worker and worker and tests for each of them" />
+    <option name="LAST_COMMIT_MESSAGE" value="spent all day working on this made salary worker and worker and tests for each of them" />
   </component>
 </project>
